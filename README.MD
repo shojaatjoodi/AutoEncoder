@@ -1,1 +1,1 @@
- 
+This project demonstrates an image autoencoder architecture that leverages a ResNet-based encoder and a custom decoder, trained on the CIFAR-10 dataset. The autoencoder learns to compress images into a lower-dimensional latent space and reconstructs them with minimal loss, enabling applications such as denoising, dimensionality reduction, and feature extraction. 
